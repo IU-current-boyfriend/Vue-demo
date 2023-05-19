@@ -1,0 +1,14 @@
+{
+  "name": "v_if_show",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^4.3.8"
+  }
+}
